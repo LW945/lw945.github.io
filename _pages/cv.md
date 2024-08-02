@@ -20,7 +20,7 @@ Advised by Prof. [Jianhui Zhang](https://jhzhang.cn/), Prof. [Xundong Wu](https:
 
 Work Experiences
 ======
-* SDE, Baidu (Beijing), 2022.7-2023.10  
+* SDE, Baidu (Beijing), 2022-2023  
 Taihang DPU Group (Virtualization in SmartNIC)
 
 Open Source Contributions
@@ -35,7 +35,7 @@ Open Source Contributions
 Honors and Awards
 ======
 * 2022 Euro-Par 2022 Best Paper Award
-* 2019 Top 10 undergraduate students in Hangzhou Dianzi University
+* 2019 Top 10 Undergraduate Students in Hangzhou Dianzi University
 * 2018 The National Scholarship
 
 <!-- Skills
