@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: "Bio"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -11,43 +11,49 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in HKUST, 2024  
+Advised by Prof. [Zili meng](https://zilimeng.com/).
+* M.Eng. in Tsinghua University, 2019-2022  
+Advised by Prof. [Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html).
+* B.Eng. in Hangzhou Dianzi University, 2015-2019  
+Advised by Prof. [Jianhui Zhang](https://jhzhang.cn/), Prof. [Xundong Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=IJ-S8dMAAAAJ), Prof. Qingwu.
 
-Work experience
+Work Experiences
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* SDE, Baidu (Beijing), 2022.7-2023.10  
+Taihang DPU Group (Virtualization in SmartNIC)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+Open Source Contributions
+======
+* QEMU
+  * [Bug fix: cmpxchg and lock cmpxchg should not touch accumulator](https://lore.kernel.org/all/20220323013417.409858-1-lw945lw945@yahoo.com/)
+  * [Bug fix: target/i386: Some mmx/sse instructions don’t require](https://lore.kernel.org/all/20220325145007.448948-1-lw945lw945@yahoo.com/)
+* GLib
+  * [Bug fix: gmain: g_main_context_release should check context owner (Set 1)](https://gitlab.gnome.org/GNOME/glib/-/merge_requests/3314) 
+  * [Bug fix: gmain: g_main_context_release should check context owner (Set 2)](https://gitlab.gnome.org/GNOME/glib/-/merge_requests/3302) 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Honors and Awards
+======
+* 2022 Euro-Par 2022 Best Paper Award
+* 2019 Top 10 undergraduate students in Hangzhou Dianzi University
+* 2018 The National Scholarship
+
+<!-- Skills
 ======
 * Skill 1
 * Skill 2
   * Sub-skill 2.1
   * Sub-skill 2.2
   * Sub-skill 2.3
-* Skill 3
+* Skill 3 -->
 
-Publications
+<!-- Publications
 ======
   <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+  {% endfor %}</ul> -->
   
-Talks
+<!-- Talks
 ======
   <ul>{% for post in site.talks reversed %}
     {% include archive-single-talk-cv.html  %}
@@ -61,4 +67,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* Currently signed in to 43 different slack teams -->
