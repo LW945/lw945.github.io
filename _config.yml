@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "HKUST ECE"
+title                    : "Welcome to my homepage!"
 title_separator          : "-"
 name                     : &name "Wei Li"
 description              : &description "HKUST ECE"
