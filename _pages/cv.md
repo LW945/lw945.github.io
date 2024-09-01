@@ -12,7 +12,7 @@ redirect_from:
 Education
 ======
 * Ph.D in HKUST, 2024  
-Advised by Prof. [Zili meng](https://zilimeng.com/).
+Advised by Prof. [Zili Meng](https://zilimeng.com/).
 * M.Eng. in Tsinghua University, 2019-2022  
 Advised by Prof. [Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html).
 * B.Eng. in Hangzhou Dianzi University, 2015-2019  

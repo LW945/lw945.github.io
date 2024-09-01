@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-He is currently a PhD student in HKUST ECE, advised by Prof. [Zili meng](https://zilimeng.com/).
+He is currently a PhD student in HKUST ECE, advised by Prof. [Zili Meng](https://zilimeng.com/).
 
 He received his M.Eng. in Computer Science of Technology, Tsinghua University, advised by Prof. [Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html), and his B.Eng. in Computer Science of Technology from Hangzhou Dianzi University. His research received a Best Paper Award from Euro-Par 2022. His research interests include real-time communications (RTC), networked systems and dynamic binary translation.
 
