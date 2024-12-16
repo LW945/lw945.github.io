@@ -13,6 +13,9 @@ He received his M.Eng. in Computer Science of Technology, Tsinghua University, a
 
 Publications
 ======
+* Zhongjie Chen, Yingchen Fan, Kun Qian, Qingkai Meng, Ran Shu, Xiaoyu Li, Yiran Zhang, Bo Wang, **Wei Li**, Fengyuan Ren  
+ScalaTap: Scalable Outbound Rate Limiting in Public Cloud,  
+IEEE INFOCOM 2025.
 * **Wei Li**, Zili Meng,  
 Poster: Content-aware Retransmission for Ultra-low-latency Video Streaming,  
 ACM SIGCOMM 2024 Poster.
