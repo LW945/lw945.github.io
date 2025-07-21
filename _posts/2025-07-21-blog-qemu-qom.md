@@ -1,11 +1,11 @@
 ---
-title: 'Blog Post number 1'
-date: 2012-08-14
-permalink: /posts/2012/08/blog-post-1/
+title: 'QEMU QOM'
+date: 2025-07-21
+permalink: /posts/2025/07/qemu-qom/
+author_profile: false
 tags:
-  - cool posts
-  - category1
-  - category2
+  - QEMU
+  - QOM
 ---
 
 This is a sample blog post. Lorem ipsum I can't remember the rest of lorem ipsum and don't have an internet connection right now. Testing testing testing this blog post. Blog posts are cool.
