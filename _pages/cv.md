@@ -23,7 +23,7 @@ Work Experiences
 * SDE, Baidu (Beijing), 2022-2023  
 Taihang DPU Group (Virtualization in SmartNIC)
 
-Open Source Contributions
+Open Source Contributions/Bug Report
 ======
 * QEMU
   * [Bug fix: cmpxchg and lock cmpxchg should not touch accumulator](https://lore.kernel.org/all/20220323013417.409858-1-lw945lw945@yahoo.com/)
@@ -31,6 +31,9 @@ Open Source Contributions
 * GLib
   * [Bug fix: gmain: g_main_context_release should check context owner (Set 1)](https://gitlab.gnome.org/GNOME/glib/-/merge_requests/3314) 
   * [Bug fix: gmain: g_main_context_release should check context owner (Set 2)](https://gitlab.gnome.org/GNOME/glib/-/merge_requests/3302) 
+* WebRTC
+  * [The periodic task BasicNetworkManager::UpdateNetworksOnce can seriously degraded performance in certain scenarios
+](https://issues.webrtc.org/issues/418883745)
 
 Honors and Awards
 ======
