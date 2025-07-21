@@ -16,7 +16,7 @@ Advised by Prof. [Zili Meng](https://zilimeng.com/).
 * M.Eng. in Tsinghua University, 2019-2022  
 Advised by Prof. [Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html).
 * B.Eng. in Hangzhou Dianzi University, 2015-2019  
-Advised by Prof. [Jianhui Zhang](https://jhzhang.cn/), Prof. [Xundong Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=IJ-S8dMAAAAJ), Prof. Qingwu.
+Advised by Prof. [Jianhui Zhang](https://jhzhang.cn/), Prof. [Xundong Wu](https://scholar.google.com.hk/citations?hl=zh-CN&user=IJ-S8dMAAAAJ), Prof. [Qing Wu](https://www.hdu.edu.cn/2017/0816/c662a34739/page.htm).
 
 Work Experiences
 ======
