@@ -41,6 +41,15 @@ Honors and Awards
 * 2019 Top 10 Undergraduate Students in Hangzhou Dianzi University
 * 2018 The National Scholarship
 
+Teaching
+======
+* ELEC 3120 Computer Networks (2024 Fall)
+* ELEC 1200 A System View of Communications: from Signals to Packets (2025 Spring)
+
+Program Service
+======
+* ImmerCom 2025 Web Chair
+
 <!-- Skills
 ======
 * Skill 1
