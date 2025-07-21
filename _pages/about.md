@@ -28,6 +28,6 @@ Euro-Par 2022. (**Best Paper Award**)
 * **Wei Li**, Jianhui Zhang, Feilong Jiang, Zhi Li, Chong Xu,  
 [Asynchronous neighbor discovery with unreliable link in wireless mobile networks](https://link.springer.com/article/10.1007/s12083-018-0672-y).  
 Peer-to-Peer Networking and Applications 2019.
-* Xundong Wu, Xiangwen Liu, **Wei Li**, and Qing Wu,  
+* [Xundong Wu](https://scholar.google.com/citations?hl=zh-CN&user=IJ-S8dMAAAAJ), Xiangwen Liu, **Wei Li**, and Qing Wu,  
 [Improved expressivity through dendritic neural networks](https://papers.nips.cc/paper_files/paper/2018/hash/e32c51ad39723ee92b285b362c916ca7-Abstract.html),  
 NIPS 2018.
