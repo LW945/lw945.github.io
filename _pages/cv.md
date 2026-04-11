@@ -43,8 +43,9 @@ Honors and Awards
 
 Teaching
 ======
-* ELEC 3120 Computer Networks (2024 Fall)
+* ELEC 3120 Computer Networks (2024 Fall, 2025 Fall)
 * ELEC 1200 A System View of Communications: from Signals to Packets (2025 Spring)
+* HKUST FYP (2025-2026): WiCi
 
 Program Service
 ======
