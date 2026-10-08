@@ -41,7 +41,7 @@ Peer-to-Peer Networking and Applications 2019.
 
 ## Dynamic Binary Translation
 * Xiangwei Meng, Chen Gao, **Wei Li**, [Fengyuan Ren](https://nns.cs.tsinghua.edu.cn/personal/renfy/renfy.html),  
-Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation,  
+[Low-Compilation-Cost Register Allocation in LLVM-Based Binary Translation](https://dl.acm.org/doi/10.1145/3767295.3803591),  
 ACM EuroSys 2026.  
 * Chen Gao, Xiangwei Meng, **Wei Li**, 
 Jinhui Lai, 
