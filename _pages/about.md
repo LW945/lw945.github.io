@@ -13,6 +13,9 @@ He received his M.Eng. in Computer Science of Technology, Tsinghua University, a
 
 # Publications
 ## Network
+* **Wei Li**, [Zhewen Yang](https://yangzhewen.github.io/), [Hua Meng](https://huameng15.github.io/), [Zili Meng](https://zilimeng.com/),  
+Fine-Grained Loss Recovery via Packet-Level Content-Awareness for Ultra-low-latency Video Communications,  
+ACM SIGOPS ATC 2026. (To appear)
 * **Wei Li** (co-primary), Yibin Shen (co-primary), [Zili Meng](https://zilimeng.com/),  
 [Demo: WiCi: Wireless Computing Infrastructure](https://dl.acm.org/doi/abs/10.1145/3789514.3796248),  
 ACM HotMobile 2026.
